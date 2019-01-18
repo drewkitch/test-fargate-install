@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-set +ex
+set -ex
 
 # preinstall
 if [ -x "$(command -v apk)" ]; then
