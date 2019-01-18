@@ -15,3 +15,4 @@ echo
 echo 'Fargate Command'
 command -v fargate
 fargate --version
+
