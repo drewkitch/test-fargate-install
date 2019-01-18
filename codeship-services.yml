@@ -1,0 +1,4 @@
+app:
+  image: garland/aws-cli-docker:latest
+  volumes:
+    - ./:/data
